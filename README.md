@@ -15,7 +15,7 @@ https://couponmelitest.uc.r.appspot.com/api/coupon
 Para la ejecución del api de la solución puede consultar el swagger con la documentación necesaria en el siguiente enlace:
 
 ```sh
-https://couponmelitest.uc.r.appspot.com/swagger-ui/index.html
+https://couponmelitest.uc.r.appspot.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 ```
 Se realizó la prueba con el siguiente json:
 
