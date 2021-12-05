@@ -31,7 +31,7 @@ Se realizó la prueba con el siguiente json:
 }
 ```
 
-![image](https://user-images.githubusercontent.com/95514404/144734567-79f50f11-1d73-4b1e-b0b6-5e8f05edb9cc.png)
+![image](https://user-images.githubusercontent.com/95514404/144735570-e9f6d63f-e5ec-440a-a21b-93b77eebcdbc.png)
 
 
 la respuesta del servicio fue: 
@@ -48,7 +48,7 @@ la respuesta del servicio fue:
 ```
 ### Pruebas del api
 
-Para Coupon Api ser realizarón pruebas unitarias que cubrieron el 80% de la capa de servicios
+Para Coupon Api se realizarón pruebas unitarias que cubrieron el 80% de la capa de servicios
 ![image](https://user-images.githubusercontent.com/95514404/144734602-1306f1d9-aed6-409f-828b-9aec27b6d8de.png)
 
 ### Despliegue
