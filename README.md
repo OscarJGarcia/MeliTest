@@ -1,10 +1,10 @@
 # MeliTest - Coupon
 
-Este es el repositorio para la solucipon del test de MercadoLibre de cupones que pueden redimir los usuarios.
+Este es el repositorio para la solución del test de MercadoLibre de cupones que pueden redimir los usuarios.
 
 ### Api de la solución
 
-En el enlace siguiente se encuentra alojado la solucion del test:
+En el enlace siguiente se encuentra alojada la solución del test:
 
 
 ```sh
@@ -12,12 +12,12 @@ https://couponmelitest.uc.r.appspot.com/api/coupon
 ```
 ### Ejecución de la api
 
-Para la ejecucion el api de la solución puede consultar el swagger con la documentación necesaria en el siguiente enlace:
+Para la ejecución del api de la solución puede consultar el swagger con la documentación necesaria en el siguiente enlace:
 
 ```sh
 https://couponmelitest.uc.r.appspot.com/swagger-ui/index.html
 ```
-Se realizo la prueba con el siguiente json
+Se realizó la prueba con el siguiente json:
 
 ```sh
 {
@@ -48,7 +48,7 @@ la respuesta del servicio fue:
 ```
 ### Pruebas del api
 
-Para Coupon Api ser realizarón pruebas initarias que cubrieron el 80% de la capa de servicios
+Para Coupon Api ser realizarón pruebas unitarias que cubrieron el 80% de la capa de servicios
 ![image](https://user-images.githubusercontent.com/95514404/144734602-1306f1d9-aed6-409f-828b-9aec27b6d8de.png)
 
 ### Despliegue
