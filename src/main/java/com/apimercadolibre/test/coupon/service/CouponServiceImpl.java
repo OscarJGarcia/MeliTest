@@ -57,7 +57,7 @@ public class CouponServiceImpl implements ICouponService {
         }
     }
 
-    private ItemResponse createErrorResponse(String message, List<String> items) {
+    public ItemResponse createErrorResponse(String message, List<String> items) {
         ItemResponse finalResult = new ItemResponse(new ArrayList<>(), Float.valueOf(0));
         NotFoundItems notFoundItems = new NotFoundItems(message, items);
         finalResult.setNotFoundItems(notFoundItems);
